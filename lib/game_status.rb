@@ -61,8 +61,9 @@ def winner(board)
   else
     if board[index[0]] == "X"
       return "X"
-    if board[index[0]] == "O"  
-      return "Y"
+    else
+      return "O"
+
     end
   end
 end
