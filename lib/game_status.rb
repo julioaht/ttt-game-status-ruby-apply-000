@@ -18,6 +18,6 @@ WIN_COMBINATIONS = [
 def won?(board)
   WIN_COMBINATIONS.each {|win|}
   index_0 = win[0]
-  index_1 = win[1]
+  index_1 =
 end
 end
