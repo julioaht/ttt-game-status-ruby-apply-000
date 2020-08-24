@@ -20,3 +20,4 @@ def won?(board)
   index_0 = win[0]
   index_1 = win[1]
 end
+end
