@@ -28,4 +28,3 @@ def won?(board)
     if position_1 == "X"
 }
 end
-
